@@ -1,5 +1,7 @@
-### Hi there 👋
+### Hi, I'm Christopher! 👋
 
+👷‍♂️Civil Engineering <br/>
+👨‍🎓Studied Civil Engineering at the National University of Engineering, Peru <br/>
 <!--
 **13c-nunez/13c-nunez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
