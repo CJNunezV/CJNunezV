@@ -1,13 +1,17 @@
 ### Hi, I'm Christopher! 👋
 
 👷‍♂️Civil Engineer<br/>
-👨‍🎓Studied Civil Engineering at the National University of Engineering, Peru <br/>
+👨‍🎓National University of Engineering, Peru <br/>
+🔭 I’m currently working on :
+- IoT - BIM
+- 3D Reconstruction
+- Scan-to-BIM
+- 3D Concrete Printing.
 <!--
 **13c-nunez/13c-nunez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
